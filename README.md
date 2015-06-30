@@ -1,0 +1,1 @@
+random.js es un módulo escrito en Javascript que genera números aleatorios entre 0 y 1 y devuelve un string en el que se indica si es mayor o menor que 0.5
